@@ -1,2 +1,2 @@
 # Debugging-config-vs-code
- debugging configuration for c/c++ in vs code
+ This repository contains the debugging configuration for c/c++ using g++ compiler and gdb debugger.
